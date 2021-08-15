@@ -1,4 +1,4 @@
-# Nilaa Coffee Email
+# Thick Thighs Matter Boutique
 
 This is a recreated sample newsletter HTML Email for Thick Thighs Matter Boutique.
 
